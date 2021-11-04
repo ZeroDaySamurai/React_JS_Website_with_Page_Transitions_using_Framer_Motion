@@ -5,6 +5,7 @@ import styled from 'styled-components';
 
 const Navbar = styled.nav`
     height: 60px;
+    background: transparent;
     background: #000;
     padding: 0rem calc((100vw - 1300px) / 2);
     display: flex;
